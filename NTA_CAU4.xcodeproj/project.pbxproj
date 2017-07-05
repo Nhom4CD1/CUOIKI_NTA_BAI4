@@ -15,6 +15,7 @@
 		353146051F0CD12C00949F33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 353146031F0CD12C00949F33 /* LaunchScreen.storyboard */; };
 		353146101F0CD12C00949F33 /* NTA_CAU4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3531460F1F0CD12C00949F33 /* NTA_CAU4Tests.swift */; };
 		3531461B1F0CD12C00949F33 /* NTA_CAU4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3531461A1F0CD12C00949F33 /* NTA_CAU4UITests.swift */; };
+		353146661F0CD8D800949F33 /* BAI4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353146651F0CD8D800949F33 /* BAI4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		353146161F0CD12C00949F33 /* NTA_CAU4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NTA_CAU4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3531461A1F0CD12C00949F33 /* NTA_CAU4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NTA_CAU4UITests.swift; sourceTree = "<group>"; };
 		3531461C1F0CD12C00949F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		353146651F0CD8D800949F33 /* BAI4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BAI4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				353146031F0CD12C00949F33 /* LaunchScreen.storyboard */,
 				353146061F0CD12C00949F33 /* Info.plist */,
 				353145FE1F0CD12C00949F33 /* NTA_CAU4.xcdatamodeld */,
+				353146651F0CD8D800949F33 /* BAI4.swift */,
 			);
 			path = NTA_CAU4;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				353145FA1F0CD12C00949F33 /* ViewController.swift in Sources */,
+				353146661F0CD8D800949F33 /* BAI4.swift in Sources */,
 				353145F81F0CD12C00949F33 /* AppDelegate.swift in Sources */,
 				353146001F0CD12C00949F33 /* NTA_CAU4.xcdatamodeld in Sources */,
 			);
